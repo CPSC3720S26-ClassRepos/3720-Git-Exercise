@@ -4,12 +4,12 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 
 <ins>Contributors List</ins>
 - adkins4
-- [Clemson Username Here]
+- ywiesel
 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | adkins4          | alexadkins         | None         |
-|                  |                    |              |
+| ywiesel          | ywiesel            | 10           |
 |                  |                    |              |
 |                  |                    |              |
 |                  |                    |              |

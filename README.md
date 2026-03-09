@@ -10,7 +10,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | ---------------- | ------------------ | ------------ |
 | adkins4          | alexadkins         | None         |
 |                  |                    |              |
-|                  |                    |              |
+| wratchf          | wratchington       | 10           |
 |                  |                    |              |
 |                  |                    |              |
 |                  |                    |              |

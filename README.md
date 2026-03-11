@@ -8,7 +8,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
-| adkins4          | alexadkins         | None         |
+| whitt7           | ShaunWhittTea      | 3            |
 |                  |                    |              |
 |                  |                    |              |
 |                  |                    |              |
